@@ -1,6 +1,6 @@
 # BinarySoup4All
 
-*** By Frederic Rocha ***
+** By Frederic Rocha **
 
 
 - [x] Create Account
