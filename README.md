@@ -14,7 +14,7 @@ Anyway, it's easier to read than the Matrix!
 
 
 - [x] :heavy_check_mark:
-- [ ] 🇵🇫
+- [ ] :fr:
 - [ ] Have fun :tada:
 
-![BinaryGual Logo](avocado.png)
+![BinaryGual Logo](Avocado.png)
