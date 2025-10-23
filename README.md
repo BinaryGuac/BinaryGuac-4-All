@@ -1,10 +1,20 @@
-# BinarySoup4All
+# BinaryGuac4All
 
 ** By Frederic Rocha **
 
+Welcome to my Github :smile:
 
-- [x] Create Account
-- [ ] Add link to repo
-- [ ] Make it fun :tada:
+Some projects have been worked on in the past years, but only putting them here for sharing.
+Please comment and participate if you wish.
 
-![Plus Logo](plus_logo_blue.png)
+The nick name of the repo is BinaryGuac for Binary Guacamole.
+I wanted to use binary soup, but looks like someone already took it.
+Anyway, it's easier to read than the Matrix!
+
+
+
+- [x] :heavy_check_mark:
+- [ ] 🇵🇫
+- [ ] Have fun :tada:
+
+![BinaryGual Logo](avocado.png)
